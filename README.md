@@ -22,7 +22,7 @@ Material utilizado:
 
 ***
 ## circuito 
-![circuito](/circuitosemaforo.png)
+![circuito](/Diagrama.png)
 ***
 ## codigo 
 ~~~
