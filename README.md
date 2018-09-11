@@ -14,11 +14,16 @@ Realizar un sistema que simule un semáforo interactivo usando Arduino. Este deb
 
 Material utilizado:
 
-•	5 LEDS (2 verdes, 1 amarillo, 2 rojos);
-•	1 Potenciómetro - (10K);
-•	6 resistores delimitadores de 220 Ω;
-•	1 push boton;
-•	1 protoboard;
+•	5 LEDS (2 verdes, 1 amarillo, 2 rojos)
+
+•	1 Potenciómetro - (10K)
+
+•	6 resistores delimitadores de 220 Ω
+
+•	1 push boton
+
+•	1 protoboard
+
 •	Arduino.
 
 ***
