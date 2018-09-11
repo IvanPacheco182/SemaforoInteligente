@@ -19,7 +19,7 @@ Material utilizado:
 •	6 resistores delimitadores de 220 Ω
 •	1 push boton
 •	1 protoboard
-•	Arduino.
+•	Arduino
 
 ***
 ## circuito 
