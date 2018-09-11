@@ -4,7 +4,7 @@
 + [descripcion del programa](#descripcion)
 + [circuito en digital](#circuito)    
 + [codigo en arduino](#codigo)
-+ [Evidencia (fotos)](#Evidencia)
++ [Evidencia (fotos)](#evidencia)
 + [conclusión](#conclusión)
 ***
 ## Descripcion   
@@ -100,11 +100,11 @@ void loop() {
 
 ~~~
 
-## Evidencia
+## evidencia
 
-![Evidencia](/Img1.jpg)
-![Evidencia](/Img2.jpg)
-![Evidencia](/Img3.jpg)
+![evidencia](/Img1.jpg)
+![evidencia](/Img2.jpg)
+![evidencia](/Img3.jpg)
 
 
 
