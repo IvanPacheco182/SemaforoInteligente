@@ -5,7 +5,7 @@
 + [circuito en digital](#circuito)    
 + [codigo en arduino](#codigo)
 + [Evidencia (fotos)](#evidencia)
-+ [conclusión](#conclusión)
++ [Contacto](#contacto)
 ***
 ## Descripcion   
 Sistema alertizador salvaguarda humano-coche
@@ -108,14 +108,11 @@ void loop() {
 
 
 
-## conclusión
+## contacto
 ~~~
 
-Con la ayuda de arduino pudimos desarrollar un prototipo de semáforo vehicular 
-y peatonal el cual se basa en un lenguaje de alto nivel muy sencillo de utilizar 
-para los que tenemos conocimiento en programación, y que nos permiten implementar 
-la funcionalidad en base a las necesidades que ocupemos. Al tener nuestro código 
-que ocupamos para nuestro semáforo, únicamente conectamos los componentes necesarios 
-al protoboard y observamos que funciona correctamente.  
+Elaborado por: Oscar Iván Pacheco Vargas
+correo: heavy.pacheco@gmail.com
+
 
 ~~~
